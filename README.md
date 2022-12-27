@@ -1,6 +1,6 @@
 <h1 align="center"> Bonjour je m'appelle Rémy. </h1>
 
-## Je suis testeur logiciel - Certifié ISTQB Fondation.    
+<h2 align="center"> Je suis testeur logiciel - Certifié ISTQB Fondation. </h2>
 
 * 💼 Je travaille actuellement chez Sogeti en tant que testeur logiciel junior
   * 👉 Cérémonies Agile (dailymeeting, sprint, démo, rétrospective)  
