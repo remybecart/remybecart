@@ -2,7 +2,6 @@
 
 <h2 align="center"> Je suis testeur logiciel - Certifié ISTQB Fondation. </h2>
 
-![banner](banniere_linkedin.jpg)
 <img src="banniere_linkedin.jpg" width="50%">
 
 * 💼 Je travaille actuellement chez Sogeti en tant que testeur logiciel junior
